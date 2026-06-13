@@ -6,7 +6,7 @@ export const BUSINESS: MarigoldConfig = {
   "location": "",
   "palette": "marigold-green",
   "fontSet": "fraunces-dmsans",
-  "heroImage": "C:\\Users\\steve\\Downloads\\cafe-heros\\fortuna-cafe-edinburgh.jpg",
+  "heroImage": "/hero.jpg",
   "aboutQuote": "We opened Fortuna Coffee Bar to be the kind of place we missed — somewhere warm, where the bread is real, the coffee is strong and nobody is in a rush.",
   "aboutAttribution": "— The owners",
   "phone": "0131 467 0179",
